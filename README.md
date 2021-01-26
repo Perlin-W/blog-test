@@ -21,7 +21,7 @@
 
 这是多行代码
 
-```javascrit
+```javascript
 var a=1
 console.log(a)
 ```
